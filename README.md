@@ -4,8 +4,11 @@ This project shows how to create an eye-catching 🌈 3D animated 🌌 website u
 
 ## 🌟 Features 🎯
 ✨ **Smooth Animations**: Breathtaking animations powered by Three.js 🎥.
+
 🎮 **Interactive Elements**: Engage users with mouse 🖱️ and touch 📱 interactions.
+
 🎨 **Customizable Design**: Personalize the look with CSS magic 🖌️.
+
 ⚡ **Lightweight Setup**: Minimal dependencies for blazing-fast performance 🚀.
 
 ## 📂 Project Structure 🗂️
@@ -43,12 +46,16 @@ open index.html
 
 ## 🎨 Customize Your Website
 💖 **Edit Animations**: Craft your dream 3D designs in app.js.
+
 🌸 **Style It Up**: Add your unique flair in style.css.
+
 💌 **Add Your Assets**: Use the img/ folder to include images you love!
 
 ## 🛠️ Technologies Used ⚙️
 🌟 **Three.js**: For creating all the 3D magic 💕.
+
 🎨 **HTML5 & CSS3**: Giving structure and style to your vision.
+
 ⚙️ **JavaScript**: Bringing interactivity to life with love ❤️.
 
 ## 🤝 Contribution 🖋️
@@ -60,7 +67,9 @@ This project is open-source and available under the MIT License. 📝
 
 ## 💌 Let’s Connect
 🌟 **Project lovingly crafted by**: Nikita Karmakar💖
+
 🌐 **Check out the live demo:** [Your Live Demo URL Here]
+
 💬 **Have questions?** Feel free to reach out anytime!💕
 
 Happy coding! 💻❤️✨
