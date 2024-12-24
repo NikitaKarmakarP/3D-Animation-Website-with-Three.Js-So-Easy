@@ -1,5 +1,5 @@
 import * as THREE from 'https://cdn.skypack.dev/three@0.129.0/build/three.module.js';
-import { GLTFLoader } from 'https://sketchfab.com/3d-models/demon-bee-full-texture-80411ec40c9841518f36212be8c9a500';
+import { GLTFLoader } from 'https://cdn.skypack.dev/three@0.129.0/examples/jsm/loaders/GLTFLoader.js';
 import { gsap } from 'https://cdn.skypack.dev/gsap';
 
 const camera = new THREE.PerspectiveCamera(
