@@ -12,9 +12,13 @@ This project shows how to create an eye-catching 🌈 3D animated 🌌 website u
 
 .
 ├── 📁 img/               # Assets (images, textures, etc.)
+
 ├── 📄 app.js             # Main JavaScript logic for the 3D animation
+
 ├── 📄 index.html         # Entry point of the website
+
 ├── 📄 style.css          # Stylesheet for the website
+
 ├── 📄 README.md          # Project documentation
 
 ## 🛠️ Installation 🖥️
