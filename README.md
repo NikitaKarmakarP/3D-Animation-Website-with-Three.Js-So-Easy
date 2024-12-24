@@ -13,7 +13,6 @@ This project shows how to create an eye-catching 🌈 3D animated 🌌 website u
 
 ## 📂 Project Structure 🗂️
 
-.
 ├── 📁 img/               # Assets (images, textures, etc.)
 
 ├── 📄 app.js             # Main JavaScript logic for the 3D animation
